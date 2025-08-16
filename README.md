@@ -32,7 +32,11 @@ Wiring:
  Driver VCC (logic) - 5 V           
  Driver VM (motor)  - +12 V           
  Driver GND         - GND             
- Motor terminals    - A01, A02         
+ Motor terminals    - A01, A02    
+
+code:
+
+
 
 
 How to Run:
