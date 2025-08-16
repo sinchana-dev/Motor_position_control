@@ -34,11 +34,6 @@ Wiring:
  Driver GND         - GND             
  Motor terminals    - A01, A02    
 
-code:
-
-
-
-
 How to Run:
 Open src/motor_move_by_counts.ino.
 Select Arduino Mega 2560, correct COM port.
