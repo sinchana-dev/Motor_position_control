@@ -45,6 +45,11 @@ Encoder interrupts → position count.
 State machine → IDLE / RUN.
 Trapezoidal-ish PWM ramp (distance-based taper + acceleration limit).
 
+⚠️ Note
+Due to being occupied with my final-year project, I was not able to perform a full simulation of this setup. However, the code and circuit design are complete and have been carefully prepared. If required, I will be glad to run the simulation or provide additional demonstrations.
+
+
+
 
 
 
