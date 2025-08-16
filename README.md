@@ -22,7 +22,6 @@ Arduino Mega, Motor Driver (model), DC Motor, Encoder (PPR/CPR), Power supply, W
 
 Wiring:
  Component          - Arduino Mega Pin 
-
  Motor Driver PWM   - D5 (PWM)       
  Motor Driver DIR   - D6               
  Encoder A          - D18 (INT5)       
@@ -46,11 +45,6 @@ Encoder interrupts → position count.
 State machine → IDLE / RUN.
 Trapezoidal-ish PWM ramp (distance-based taper + acceleration limit).
 
-Testing:
-Commands tested, expected vs actual counts, notes on tolerance.
-Tuning Notes
-Constants and their effect.
 
-Known Limitations:
-No hard limits; gear backlash may introduce ±counts; needs adequate supply.
+
 
